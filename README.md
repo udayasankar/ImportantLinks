@@ -8,3 +8,6 @@ https://blog.bytebytego.com/p/how-does-amazon-build-and-operate
 https://bytebytego.com/courses/system-design-interview/the-learning-continues
 
 https://blog.bytebytego.com/p/algorithms-you-should-know-before
+
+GitHubLinks
+https://github.com/jwasham/coding-interview-university#hash-table
